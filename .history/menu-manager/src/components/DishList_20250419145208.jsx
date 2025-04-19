@@ -12,7 +12,7 @@ function DishList({ dishes, onDelete, onToggleAvailability }) {
     dish={dish}
     onDelete={onDelete}
     onToggleAvailability={onToggleAvailability}
-    index={index} 
+    index={index} // pass index
   />
 ))}
 

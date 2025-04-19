@@ -1,4 +1,4 @@
-
+// src/components/Search.jsx
 function Search({ searchTerm, onSearchChange }) {
     return (
       <div className="flex items-center justify-between px-6 py-4 bg-gray-50">

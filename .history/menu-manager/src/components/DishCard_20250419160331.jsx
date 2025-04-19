@@ -18,7 +18,7 @@ function DishCard({ dish, onDelete, onToggleAvailability, index }) {
       <p className="text-gray-600 text-sm mb-2">{dish.description}</p>
 
       <div className="mt-4 flex justify-between items-center gap-2">
-        
+        {/* Smaller Remove Button */}
         <button
           className="text-xs px-2.5 py-1 bg-rose-100 text-rose-700 hover:bg-rose-200 rounded shadow-sm 
                      transition-all duration-300 ease-in-out transform hover:scale-105 hover:shadow-md"
@@ -27,7 +27,7 @@ function DishCard({ dish, onDelete, onToggleAvailability, index }) {
           Remove
         </button>
 
-    
+        {/* Smaller Availability Button */}
         <button
           className={`text-xs px-2.5 py-1 rounded shadow-sm transition-all duration-300 ease-in-out 
                       transform hover:scale-105 hover:shadow-md ${

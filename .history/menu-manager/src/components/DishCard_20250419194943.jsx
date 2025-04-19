@@ -27,7 +27,7 @@ function DishCard({ dish, onDelete, onToggleAvailability, index }) {
           Remove
         </button>
 
-    
+        {/* Smaller Availability Button */}
         <button
           className={`text-xs px-2.5 py-1 rounded shadow-sm transition-all duration-300 ease-in-out 
                       transform hover:scale-105 hover:shadow-md ${

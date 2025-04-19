@@ -1,9 +1,9 @@
 #root {
   width: 100%;
-  max-width: 100%; 
+  max-width: 100%; /* ✅ ensures no hard limit */
   margin: 0;
   padding: 0;
-  text-align: initial; 
+  text-align: initial; /* center only where needed */
 }
 
 
