@@ -1,0 +1,63 @@
+{
+    "dishes": [
+      
+      {
+        "id": 3,
+        "name": "Cheeseburger",
+        "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+        "description": "Grilled beef patty with cheddar, lettuce, tomato, and pickles.",
+        "price": 10.75,
+        "available": true
+      },
+      
+      {
+        "id": 5,
+        "name": "Vegan Buddha Bowl",
+        "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+        "description": "Quinoa, roasted veggies, chickpeas, avocado and tahini dressing.",
+        "price": 11.0,
+        "available": true
+      },
+      {
+        "id": 6,
+        "name": "Butter Chicken",
+        "image": "https://images.unsplash.com/photo-1608750537694-800e2d88ca58",
+        "description": "Creamy spiced tomato curry with tender chicken chunks.",
+        "price": 13.49,
+        "available": true
+      },
+      {
+        "id": 7,
+        "name": "Tacos al Pastor",
+        "image": "https://images.unsplash.com/photo-1601924571730-1e5e6e605f2f",
+        "description": "Corn tortillas filled with marinated pork and pineapple.",
+        "price": 9.25,
+        "available": true
+      },
+      {
+        "id": 8,
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.unsplash.com/photo-1589308078055-6916f058c90c",
+        "description": "Pasta with creamy egg sauce, pancetta, and parmesan.",
+        "price": 12.95,
+        "available": true
+      },
+      {
+        "id": 9,
+        "name": "Falafel Wrap",
+        "image": "https://images.unsplash.com/photo-1630272071764-8f4b2bc9736f",
+        "description": "Crispy falafel, hummus, and veggies in pita bread.",
+        "price": 8.5,
+        "available": true
+      },
+      {
+        "id": 10,
+        "name": "Avocado Toast",
+        "image": "https://images.unsplash.com/photo-1559628233-250a38fc6c4b",
+        "description": "Toasted sourdough with smashed avocado and chili flakes.",
+        "price": 7.95,
+        "available": true
+      }
+    ]
+  }
+  

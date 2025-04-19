@@ -1,0 +1,23 @@
+{
+    "dishes": [
+      
+      {
+        "id": ,
+        "name": "Cheeseburger",
+        "image": "https://images.unsplash.com/photo-1550547660-d9450f859349",
+        "description": "Grilled beef patty with cheddar, lettuce, tomato, and pickles.",
+        "price": 10.75,
+        "available": true
+      },
+      
+      {
+        "id": 5,
+        "name": "Vegan Buddha Bowl",
+        "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+        "description": "Quinoa, roasted veggies, chickpeas, avocado and tahini dressing.",
+        "price": 11.0,
+        "available": true
+      }
+    ]
+  }
+  

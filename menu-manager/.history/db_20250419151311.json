@@ -1,0 +1,84 @@
+{
+  "dishes": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "image": "https://images.unsplash.com/photo-1585238342028-3f9a5aa1a276?auto=format&fit=crop&w=800&q=80",
+      "description": "Classic pizza with tomato sauce, mozzarella, and basil.",
+      "price": 9.99,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Pad Thai",
+      "image": "https://images.unsplash.com/photo-1603133872876-4f22c79fdc34?auto=format&fit=crop&w=800&q=80",
+      "description": "Stir-fried rice noodles with shrimp, tofu, peanuts, and tamarind.",
+      "price": 12.5,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Cheeseburger",
+      "image": "https://images.unsplash.com/photo-1601050690590-0e1f22f2d36e?auto=format&fit=crop&w=800&q=80",
+      "description": "Grilled beef patty with cheddar, lettuce, tomato, and pickles.",
+      "price": 10.75,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Sushi Platter",
+      "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80",
+      "description": "Assorted fresh sushi rolls with wasabi and ginger.",
+      "price": 18.99,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Vegan Buddha Bowl",
+      "image": "https://images.unsplash.com/photo-1604909052957-1f63c0c8228e?auto=format&fit=crop&w=800&q=80",
+      "description": "Quinoa, roasted veggies, chickpeas, avocado and tahini dressing.",
+      "price": 11.0,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Butter Chicken",
+      "image": "https://images.unsplash.com/photo-1660835477910-91e9e088e199?auto=format&fit=crop&w=800&q=80",
+      "description": "Creamy spiced tomato curry with tender chicken chunks.",
+      "price": 13.49,
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Tacos al Pastor",
+      "image": "https://images.unsplash.com/photo-1598137260721-336e9c9a7d84?auto=format&fit=crop&w=800&q=80",
+      "description": "Corn tortillas filled with marinated pork and pineapple.",
+      "price": 9.25,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Spaghetti Carbonara",
+      "image": "https://images.unsplash.com/photo-1613145995921-ccb5902ebd0f?auto=format&fit=crop&w=800&q=80",
+      "description": "Pasta with creamy egg sauce, pancetta, and parmesan.",
+      "price": 12.95,
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "Falafel Wrap",
+      "image": "https://images.unsplash.com/photo-1627308595181-a03b1c0c8f57?auto=format&fit=crop&w=800&q=80",
+      "description": "Crispy falafel, hummus, and veggies in pita bread.",
+      "price": 8.5,
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "Avocado Toast",
+      "image": "https://images.unsplash.com/photo-1613141433866-2cb2402a80a4?auto=format&fit=crop&w=800&q=80",
+      "description": "Toasted sourdough with smashed avocado and chili flakes.",
+      "price": 7.95,
+      "available": true
+    }
+  ]
+}
