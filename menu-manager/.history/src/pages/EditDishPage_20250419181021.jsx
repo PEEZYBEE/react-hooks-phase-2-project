@@ -8,13 +8,13 @@ function EditDishPage() {
   const [dish, setDish] = useState(null);
 
   useEffect(() => {
-    fetch(`https://menu-manager-backend-r34j.onrender.com/dishes/${id}`)
+    fetch(`http://localhost:3001/dishes/${id}`)
       .then((res) => res.json())
       .then(setDish);
   }, [id]);
 
   function handleUpdate(updatedDish) {
-    fetch(`https://menu-manager-backend-r34j.onrender.com/dishes/${id}`, {
+    fetch(`/dishes/${id}`, {
       method: "PATCH",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(updatedDish),

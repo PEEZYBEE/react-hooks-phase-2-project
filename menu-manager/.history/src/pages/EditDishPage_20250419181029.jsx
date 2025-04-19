@@ -8,7 +8,7 @@ function EditDishPage() {
   const [dish, setDish] = useState(null);
 
   useEffect(() => {
-    fetch(`https://menu-manager-backend-r34j.onrender.com/dishes/${id}`)
+    fetch(`/dishes/${id}`)
       .then((res) => res.json())
       .then(setDish);
   }, [id]);

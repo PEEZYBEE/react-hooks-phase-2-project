@@ -19,7 +19,7 @@ function AddDishPage() {
       available,
     };
 
-    fetch("https://menu-manager-backend-r34j.onrender.com/dishes", {
+    fetch("/dishes", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify(newDish),
